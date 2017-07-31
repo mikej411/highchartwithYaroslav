@@ -1,0 +1,3 @@
+Currently using the following versions of WebDriver:
+Chrome: 2.20 - https://sites.google.com/a/chromium.org/chromedriver/downloads
+IE: 2.48 - http://selenium-release.storage.googleapis.com/index.html
